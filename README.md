@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="docs/kapak.jpg" alt="Inverse Kinematics Pick-and-Place — Praxtify" width="100%">
+<a href="https://youtu.be/IAttdnoe7b8"><img src="docs/kapak.jpg" alt="Inverse Kinematics Pick-and-Place — Praxtify · watch the video on YouTube" width="100%"></a>
 
 ### 🇬🇧 [English](#en) &nbsp;·&nbsp; 🇹🇷 [Türkçe](#tr) &nbsp;·&nbsp; 🇩🇪 [Deutsch](#de)
 
@@ -18,7 +18,7 @@
 
 # Inverse Kinematics Pick-and-Place · MuJoCo + SO101
 
-[![Video tutorial: coming soon](https://img.shields.io/badge/Video_Tutorial-Coming_Soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
+[![Watch the video tutorial on YouTube](https://img.shields.io/badge/Video_Tutorial-Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/IAttdnoe7b8)
 [![Website: praxtify.com](https://img.shields.io/badge/praxtify.com-Website-111111?style=for-the-badge)](https://praxtify.com)
 
 **How does a robot arm know where the cube is?** This repo builds, from scratch, a simulation in which the SO101 robot arm
@@ -58,7 +58,7 @@ smooths the motion, and runs everything in the **MuJoCo** physics engine with re
 | Motion planning | A nine-step pick-and-place task with jerk-free *smoothstep* transitions |
 | Simulation loop | At every step: IK → motor command → `mj_step` (5 ms) → screen |
 
-The whole project is **a single file, under 60 lines**: [`pick_and_place.py`](pick_and_place.py). It is identical to the code written line by line in the video.
+The whole project is **a single file, under 60 lines**: [`pick_and_place.py`](pick_and_place.py). It is identical to the code written line by line in the [video](https://youtu.be/IAttdnoe7b8) (audio in English, Turkish and German).
 
 ## Quick start
 
@@ -219,7 +219,7 @@ For questions, bugs or suggestions, open an [issue](../../issues). If you like t
 
 # Ters Kinematik ile Al-Bırak · MuJoCo + SO101
 
-[![Video anlatım: yakında](https://img.shields.io/badge/Video_Anlat%C4%B1m-Yak%C4%B1nda-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
+[![Video anlatımı YouTube'da izle](https://img.shields.io/badge/Video_Anlat%C4%B1m-YouTube%27da_%C4%B0zle-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/IAttdnoe7b8)
 [![Web sitesi: praxtify.com](https://img.shields.io/badge/praxtify.com-Web_Sitesi-111111?style=for-the-badge)](https://praxtify.com)
 
 **Bir robot kol, küpün yerini nereden bilir?** Bu repo, SO101 robot kolunun bir küpü A noktasından alıp B noktasına bıraktığı
@@ -259,7 +259,7 @@ simülasyonu sıfırdan kurar: ters kinematiği kosinüs teoremiyle elle çözer
 | Hareket planlama | Dokuz adımlık al-bırak görevi, *smoothstep* ile sarsıntısız geçiş |
 | Simülasyon döngüsü | Her adımda IK → motor komutu → `mj_step` (5 ms) → ekran |
 
-Kodun tamamı **tek dosya, 60 satırdan kısa**: [`pick_and_place.py`](pick_and_place.py). Videoda satır satır yazılan kodla birebir aynıdır.
+Kodun tamamı **tek dosya, 60 satırdan kısa**: [`pick_and_place.py`](pick_and_place.py). [Videoda](https://youtu.be/IAttdnoe7b8) satır satır yazılan kodla birebir aynıdır (Türkçe, İngilizce ve Almanca ses).
 
 ## Hızlı başlangıç
 
@@ -419,7 +419,7 @@ Soru, hata ya da öneri için bir [issue](../../issues) aç. Projeyi beğendiyse
 
 # Pick-and-Place mit inverser Kinematik · MuJoCo + SO101
 
-[![Video-Tutorial: demnächst](https://img.shields.io/badge/Video--Tutorial-Demn%C3%A4chst-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
+[![Video-Tutorial auf YouTube ansehen](https://img.shields.io/badge/Video--Tutorial-Auf_YouTube_ansehen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/IAttdnoe7b8)
 [![Webseite: praxtify.com](https://img.shields.io/badge/praxtify.com-Webseite-111111?style=for-the-badge)](https://praxtify.com)
 
 **Woher weiß ein Roboterarm, wo der Würfel liegt?** Dieses Repo baut von Grund auf eine Simulation, in der der Roboterarm SO101
@@ -459,7 +459,7 @@ die Bewegung wird geglättet, und alles läuft in der Physik-Engine **MuJoCo** m
 | Bewegungsplanung | Eine Pick-and-Place-Aufgabe in neun Schritten mit ruckfreien *Smoothstep*-Übergängen |
 | Simulationsschleife | In jedem Schritt: IK → Motorbefehl → `mj_step` (5 ms) → Bildschirm |
 
-Das gesamte Projekt ist **eine einzige Datei mit weniger als 60 Zeilen**: [`pick_and_place.py`](pick_and_place.py). Sie ist identisch mit dem Code, der im Video Zeile für Zeile geschrieben wird.
+Das gesamte Projekt ist **eine einzige Datei mit weniger als 60 Zeilen**: [`pick_and_place.py`](pick_and_place.py). Sie ist identisch mit dem Code, der im [Video](https://youtu.be/IAttdnoe7b8) Zeile für Zeile geschrieben wird (Ton auf Deutsch, Englisch und Türkisch).
 
 ## Schnellstart
 
