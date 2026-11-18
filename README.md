@@ -27,7 +27,7 @@ smooths the motion, and runs everything in the **MuJoCo** physics engine with re
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-1E88E5)](https://mujoco.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-orange.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-@praxtify-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
 
 </div>
@@ -91,7 +91,7 @@ A MuJoCo window opens and the arm completes the task in about 11 seconds.
 ├── models/
 │   └── mujoco_menagerie/robotstudio_so101/ # SO101 robot model (MuJoCo Menagerie, Apache 2.0)
 ├── docs/                                   # README images
-└── LICENSE                                 # MIT (project code)
+└── LICENSE                                 # PolyForm Noncommercial (project code)
 ```
 
 ## How it works
@@ -174,7 +174,9 @@ computation — the cube is never "glued" anywhere.
 
 ## Credits and licenses
 
-The **project code** in this repo ([`pick_and_place.py`](pick_and_place.py)) is released under the [MIT license](LICENSE). Third-party parts
+> **Noncommercial use only.** You may use, study and modify this project for personal, educational and research purposes. Commercial use (selling it, or using it in paid products, courses or services) is not permitted without our written permission. Contact us via [praxtify.com](https://praxtify.com).
+
+The **project code** in this repo ([`pick_and_place.py`](pick_and_place.py)) is released under the [PolyForm Noncommercial 1.0.0 license](LICENSE). Third-party parts
 come with their own licenses:
 
 | Component | Source | License | In repo |
@@ -228,7 +230,7 @@ simülasyonu sıfırdan kurar: ters kinematiği kosinüs teoremiyle elle çözer
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-1E88E5)](https://mujoco.org/)
-[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-green.svg)](LICENSE)
+[![Lisans: PolyForm Noncommercial](https://img.shields.io/badge/Lisans-PolyForm%20Noncommercial-orange.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-@praxtify-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
 
 </div>
@@ -291,7 +293,7 @@ MuJoCo penceresi açılır ve kol görevi ~11 saniyede tamamlar.
 ├── models/
 │   └── mujoco_menagerie/robotstudio_so101/ # SO101 robot modeli (MuJoCo Menagerie, Apache 2.0)
 ├── docs/                                   # README görselleri
-└── LICENSE                                 # MIT (proje kodu)
+└── LICENSE                                 # PolyForm Noncommercial (proje kodu)
 ```
 
 ## Nasıl çalışıyor?
@@ -374,7 +376,9 @@ hesabıyla olur — küp hiçbir yerde "yapıştırılmaz".
 
 ## Kaynaklar ve lisanslar
 
-Bu repodaki **proje kodu** ([`pick_and_place.py`](pick_and_place.py)) [MIT lisansı](LICENSE) ile yayımlanır. Üçüncü taraf parçalar
+> **Yalnızca ticari olmayan kullanım.** Bu projeyi kişisel, eğitim ve araştırma amaçlarıyla kullanabilir, inceleyebilir ve değiştirebilirsiniz. Ticari kullanım (satış ya da ücretli ürün, kurs veya hizmetlerde kullanım) yazılı iznimiz olmadan yasaktır. İzin için [praxtify.com](https://praxtify.com) üzerinden bize ulaşın.
+
+Bu repodaki **proje kodu** ([`pick_and_place.py`](pick_and_place.py)) [PolyForm Noncommercial 1.0.0 lisansı](LICENSE) ile yayımlanır. Üçüncü taraf parçalar
 kendi lisanslarıyla gelir:
 
 | Bileşen | Kaynak | Lisans | Repoda |
@@ -428,7 +432,7 @@ die Bewegung wird geglättet, und alles läuft in der Physik-Engine **MuJoCo** m
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-1E88E5)](https://mujoco.org/)
-[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-green.svg)](LICENSE)
+[![Lizenz: PolyForm Noncommercial](https://img.shields.io/badge/Lizenz-PolyForm%20Noncommercial-orange.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-@praxtify-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
 
 </div>
@@ -492,7 +496,7 @@ Ein MuJoCo-Fenster öffnet sich, und der Arm erledigt die Aufgabe in etwa 11 Sek
 ├── models/
 │   └── mujoco_menagerie/robotstudio_so101/ # SO101-Robotermodell (MuJoCo Menagerie, Apache 2.0)
 ├── docs/                                   # Bilder für die README
-└── LICENSE                                 # MIT (Projektcode)
+└── LICENSE                                 # PolyForm Noncommercial (Projektcode)
 ```
 
 ## So funktioniert es
@@ -575,7 +579,9 @@ der Physik-Engine — der Würfel wird nirgends „festgeklebt“.
 
 ## Quellen und Lizenzen
 
-Der **Projektcode** in diesem Repo ([`pick_and_place.py`](pick_and_place.py)) steht unter der [MIT-Lizenz](LICENSE). Teile von Drittanbietern
+> **Nur nichtkommerzielle Nutzung.** Sie dürfen dieses Projekt für private Zwecke, Bildung und Forschung nutzen, untersuchen und verändern. Kommerzielle Nutzung (Verkauf oder Einsatz in kostenpflichtigen Produkten, Kursen oder Dienstleistungen) ist ohne unsere schriftliche Genehmigung nicht gestattet. Kontaktieren Sie uns über [praxtify.com](https://praxtify.com).
+
+Der **Projektcode** in diesem Repo ([`pick_and_place.py`](pick_and_place.py)) steht unter der [PolyForm-Noncommercial-1.0.0-Lizenz](LICENSE). Teile von Drittanbietern
 haben ihre eigenen Lizenzen:
 
 | Komponente | Quelle | Lizenz | Im Repo |
