@@ -207,7 +207,7 @@ For this project's video and new projects:
 
 For questions, bugs or suggestions, open an [issue](../../issues). If you like the project, don't forget to give it a ⭐!
 
-**Next project in the series:** 1-arduino-robot-arm — driving this arm with a real Arduino. Coming very soon.
+**Next project in the series:** [1-arduino-robot-arm](https://github.com/praxtify/1-arduino-robot-arm) — driving this arm with a real Arduino.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -409,7 +409,7 @@ Bu projenin videosu ve yeni projeler için:
 
 Soru, hata ya da öneri için bir [issue](../../issues) aç. Projeyi beğendiysen ⭐ vermeyi unutma!
 
-**Serinin sıradaki projesi:** 1-arduino-robot-arm — bu kolu gerçek bir Arduino ile yönetiyoruz. Çok yakında.
+**Serinin sıradaki projesi:** [1-arduino-robot-arm](https://github.com/praxtify/1-arduino-robot-arm) — bu kolu gerçek bir Arduino ile yönetiyoruz.
 
 <p align="right"><a href="#top">↑ Başa dön</a></p>
 
@@ -612,6 +612,6 @@ Für das Video zu diesem Projekt und neue Projekte:
 
 Für Fragen, Fehler oder Vorschläge eröffne ein [Issue](../../issues). Wenn dir das Projekt gefällt, vergiss den ⭐ nicht!
 
-**Nächstes Projekt der Serie:** 1-arduino-robot-arm — wir steuern diesen Arm mit einem echten Arduino. Schon sehr bald.
+**Nächstes Projekt der Serie:** [1-arduino-robot-arm](https://github.com/praxtify/1-arduino-robot-arm) — wir steuern diesen Arm mit einem echten Arduino.
 
 <p align="right"><a href="#top">↑ Nach oben</a></p>
